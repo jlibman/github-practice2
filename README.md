@@ -1,7 +1,8 @@
 # GitHub Markdown Practice (#2)
 Do the following using this repository:
 
-1.  Fork the repository to your own GitHub account
+> 1.  Fork the repository to your own GitHub account
+  *[View More Information](https://help.github.com/articles/fork-a-repo/)
 2.  Clone the repository to your machine
 3.  Put your favorite quote in a block quote
 4.  Provide a link to more information about the quote online
